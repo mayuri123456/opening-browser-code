@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50464" started-at="2019-05-11T13:12:36Z" finished-at="2019-05-11T13:13:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50464" started-at="2019-05-11T13:12:36Z" finished-at="2019-05-11T13:13:26Z">
+      <class name="jenkin.mavenjenkin">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:jenkin.mavenjenkin@82f6ef]" name="openbrowser" is-config="true" duration-ms="4991" started-at="2019-05-11T18:42:36Z" finished-at="2019-05-11T18:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="loadurl()[pri:0, instance:jenkin.mavenjenkin@82f6ef]" name="loadurl" duration-ms="45343" started-at="2019-05-11T18:42:41Z" finished-at="2019-05-11T18:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadurl -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:jenkin.mavenjenkin@82f6ef]" name="teardown" is-config="true" duration-ms="114" started-at="2019-05-11T18:43:26Z" finished-at="2019-05-11T18:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- jenkin.mavenjenkin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
